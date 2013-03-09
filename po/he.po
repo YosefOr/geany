@@ -1,14 +1,14 @@
 # Hebrew translations for PACKAGE package.
 # Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
+# Yosef Or Botschko <yosefor3@walla.com>, 2012, 2013.
 #
-# Yosef Or Botschko <yosefor3@walla.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Geany 1.23\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-23 14:24+0100\n"
-"PO-Revision-Date: 2013-01-20 22:03+0200\n"
+"PO-Revision-Date: 2013-03-09 20:20+0200\n"
 "Last-Translator: Yosef Or Botschko <yosefor3@walla.com>\n"
 "Language-Team: Hebrew <>\n"
 "Language: he\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Gtranslator 2.91.6\n"
 
 #: ../geany.desktop.in.h:1 ../data/geany.glade.h:350
 msgid "Geany"
@@ -28,7 +28,7 @@ msgstr "סביבת פיתוח משולבת"
 
 #: ../geany.desktop.in.h:3
 msgid "A fast and lightweight IDE using GTK2"
-msgstr "סביבת פיתוח משולבת קטנה וקלת משקל המשתמשת ב-GTK2"
+msgstr "סביבת פיתוח משולבת קטנה וקלת משקל המשתמשת ב־GTK2"
 
 #: ../data/geany.glade.h:1
 msgid "_Edit"
@@ -172,7 +172,7 @@ msgstr "בקשת אישור ליציאה מהיישום"
 
 #: ../data/geany.glade.h:35
 msgid "Shows a confirmation dialog on exit"
-msgstr "מציג דו-שיח לאישור יציאה"
+msgstr "מציג דו־שיח לאישור יציאה"
 
 #: ../data/geany.glade.h:36
 msgid "<b>Shutdown</b>"
@@ -207,8 +207,8 @@ msgid ""
 "configuration directory. The path entered here will be searched additionally "
 "for plugins. Leave blank to disable."
 msgstr ""
-"‏כברירת מחדל, Geany מחפש תוספים בנתיב ההתקנה הראשי. בנתיב כאן יתבצע חיפוש "
-"תוספים נוספים. השאר ריק לביטול."
+"‏בברירת מחדל, Geany מחפש תוספים בנתיב ההתקנה הראשי. בנתיב שיוזן כאן יבוצע "
+"חיפוש תוספים נוספים. השאר ריק לביטול."
 
 #: ../data/geany.glade.h:43
 msgid "<b>Paths</b>"
@@ -230,7 +230,7 @@ msgstr "האם להשמיע צפצוף בסיום הידור ובעת הצגת �
 
 #: ../data/geany.glade.h:47
 msgid "Switch to status message list at new message"
-msgstr "מעבר לרשימת ההודעות בעת קבלת הודעת-מצב חדשה"
+msgstr "מעבר לרשימת ההודעות בעת קבלת הודעת־מצב חדשה"
 
 #: ../data/geany.glade.h:48
 msgid ""
@@ -238,11 +238,11 @@ msgid ""
 "new status message arrives"
 msgstr ""
 "מעבר אל כרטיסיית הודעות המצב (בחלון הכרטיסיות שבתחתית החלון הראשי) כאשר "
-"מתקבלת הודעת-מצב חדשה"
+"מתקבלת הודעת־מצב חדשה"
 
 #: ../data/geany.glade.h:49
 msgid "Suppress status messages in the status bar"
-msgstr "הסתרת הודעות-מצב בשורת המצב"
+msgstr "הסתרת הודעות־מצב בשורת המצב"
 
 #: ../data/geany.glade.h:50
 msgid ""
@@ -261,8 +261,8 @@ msgid ""
 "the main editor widget, the scribble, the toolbar search and goto line "
 "fields and the VTE."
 msgstr ""
-"ממקד באופן אוטומטי יישומונים הנמצאים מתחת לסמן העכבר. זה עובד עבור יישומון "
-"העורך הראשי, חיפוש ומעבר שורה בסרגל הכלים ושדות במדמה המסוף (VTE)."
+"ממקד באופן אוטומטי יישומונים הנמצאים מתחת לסמן העכבר. מיקוד זה עובד עבור "
+"יישומון העורך הראשי, חיפוש ומעבר שורה בסרגל הכלים ושדות במדמה המסוף (VTE)."
 
 #: ../data/geany.glade.h:53
 msgid "Use Windows File Open/Save dialogs"
@@ -273,7 +273,7 @@ msgid ""
 "Defines whether to use the native Windows File Open/Save dialogs or whether "
 "to use the GTK default dialogs"
 msgstr ""
-"מגדיר אם להשתמש בסייר הקבצים של חלונות לפתיחה ולשמירת קבצים או להשתמש בדו-"
+"מגדיר אם להשתמש בסייר הקבצים של חלונות לפתיחה ולשמירת קבצים או להשתמש בדו־"
 "שיח ברירת המחדל של GTK לפתיחת קבצים"
 
 #: ../data/geany.glade.h:55
@@ -282,31 +282,32 @@ msgstr "<b>שונות</b>"
 
 #: ../data/geany.glade.h:56
 msgid "Always wrap search"
-msgstr "חיפוש חוזר בהגעה לסוף הדף"
+msgstr "חיפוש חוזר בהגעה לסוף המסמך"
 
 #: ../data/geany.glade.h:57
 msgid "Always wrap search around the document"
 msgstr ""
-"מאפשר התחלה מחודשת של החיפוש, מתחילת הדף, לאחר שהחיפוש הסתיים והגיע לסוף הדף."
+"מאפשר התחלה מחודשת של החיפוש, מתחילת הדף, לאחר שהחיפוש הסתיים והגיע לסוף "
+"המסמך."
 
 #: ../data/geany.glade.h:58
 msgid "Hide the Find dialog"
-msgstr "הסתרת דו-שיח החיפוש"
+msgstr "הסתרת דו־שיח החיפוש"
 
 #: ../data/geany.glade.h:59
 msgid "Hide the Find dialog after clicking Find Next/Previous"
-msgstr "הסתרת דו-שיח החיפוש לאחר לחיצה על הבא/הקודם"
+msgstr "הסתרת דו־שיח החיפוש לאחר לחיצה על הבא/הקודם"
 
 #: ../data/geany.glade.h:60
 msgid "Use the current word under the cursor for Find dialogs"
-msgstr "שימוש במילה הנמצאת תחת הסמן לחיפוש בדו-שיח החיפוש"
+msgstr "שימוש במילה הנמצאת תחת הסמן לחיפוש בדו־שיח החיפוש"
 
 #: ../data/geany.glade.h:61
 msgid ""
 "Use current word under the cursor when opening the Find, Find in Files or "
 "Replace dialog and there is no selection"
 msgstr ""
-"משתמש במילה הנמצאת תחת הסמן בתיבת דו-שיח לחיפוש, חיפוש בקובץ וחיפוש והחלפה"
+"משתמש במילה הנמצאת תחת הסמן בתיבת דו־שיח לחיפוש, חיפוש בקובץ וחיפוש והחלפה"
 
 #: ../data/geany.glade.h:62
 msgid "Use the current file's directory for Find in Files"
@@ -325,7 +326,7 @@ msgid ""
 "Whether to store a project's session files and open them when re-opening the "
 "project"
 msgstr ""
-"האם לשמור את קָבְצי המיזם הפתוחים לפני סגירת המיזם, ולפָתְחם בעת פתיחה מחודשת של "
+"האם לשמור את קָבְצי המיזם הפתוחים לפני סגירת המיזם, ולפָתְחם בפתיחה מחודשת של "
 "המיזם"
 
 #: ../data/geany.glade.h:66
@@ -340,8 +341,8 @@ msgid ""
 "Project dialog."
 msgstr ""
 "כאשר אפשרות זו מופעלת, בעת יצירת מיזם חדש, קובץ המיזם יאוחסן בתיקיית הבסיס "
-"שלו במקום בתיקייה אחת מעל. אתה עדיין יכול לשנות את נתיב קובץ המיזם בדו-שיח "
-"ליצירת מיזם חדש."
+"שלו במקום תיקייה אחת מעל. עדיין ניתן לשנות את נתיב קובץ המיזם בדו־שיח ליצירת "
+"מיזם חדש."
 
 #: ../data/geany.glade.h:68
 msgid "<b>Projects</b>"
@@ -385,11 +386,11 @@ msgstr "מיקום:"
 
 #: ../data/geany.glade.h:77
 msgid "Left"
-msgstr "שמאל"
+msgstr "ימין"
 
 #: ../data/geany.glade.h:78
 msgid "Right"
-msgstr "ימין"
+msgstr "שמאל"
 
 #: ../data/geany.glade.h:79
 msgid "<b>Sidebar</b>"
@@ -455,7 +456,7 @@ msgstr "הצגת כפתורי סגירה"
 msgid ""
 "Shows a small cross button in the file tabs to easily close files when "
 "clicking on it (requires restart of Geany)"
-msgstr "מציג כפתור X קטן המאפשר לסגור קבצים בקלות על-ידי לחיצה עליו"
+msgstr "מציג כפתור X קטן המאפשר לסגור קבצים בקלות על־ידי לחיצה עליו"
 
 #: ../data/geany.glade.h:95
 msgid "Placement of new file tabs:"
@@ -463,11 +464,11 @@ msgstr "מיקום פתיחת כרטיסיות קבצים חדשים:"
 
 #: ../data/geany.glade.h:96
 msgid "File tabs will be placed on the left of the notebook"
-msgstr "כרטיסיות קבצים חדשים תוצבנה משמאל לכרטיסיות הפתוחות"
+msgstr "כרטיסיות קבצים חדשים תוצבנה מימין לכרטיסיות הפתוחות"
 
 #: ../data/geany.glade.h:97
 msgid "File tabs will be placed on the right of the notebook"
-msgstr "כרטיסיות קבצים חדשים תוצבנה מימין לכרטיסיות הפתוחות"
+msgstr "כרטיסיות קבצים חדשים תוצבנה משמאל לכרטיסיות הפתוחות"
 
 #: ../data/geany.glade.h:98
 msgid "Next to current"
@@ -483,11 +484,11 @@ msgstr ""
 
 #: ../data/geany.glade.h:100
 msgid "Double-clicking hides all additional widgets"
-msgstr "לחיצה כפולה מסתירה את כל היישומונים"
+msgstr "לחיצה כפולה על כרטיסייה מסתירה את כל היישומונים"
 
 #: ../data/geany.glade.h:101
 msgid "Calls the View->Toggle All Additional Widgets command"
-msgstr "תצוגה->הצגה או הסתרת היישומונים מציגה שוב את כל היישומונים"
+msgstr "'תצוגה -> הצגה או הסתרת היישומונים' מציגה שוב את כל היישומונים"
 
 #: ../data/geany.glade.h:102
 msgid "Switch to last used document after closing a tab"
@@ -519,7 +520,7 @@ msgstr "_צירוף סרגל הכלים לשורת התפריטים"
 
 #: ../data/geany.glade.h:109
 msgid "Pack the toolbar to the main menu to save vertical space"
-msgstr "לארוז את סרגל הכלים לתוך התפריט הראשי כדי לחסוך במקום"
+msgstr "אורז את סרגל הכלים לתוך התפריט הראשי כדי לחסוך במקום"
 
 #: ../data/geany.glade.h:110 ../src/toolbar.c:933
 msgid "Customize Toolbar"
@@ -547,7 +548,7 @@ msgstr "<b>סגנון צלמיות</b>"
 
 #: ../data/geany.glade.h:116
 msgid "S_ystem default"
-msgstr "ברירת מ_חדל של המערכת"
+msgstr "ברירת המ_חדל של המערכת"
 
 #: ../data/geany.glade.h:117
 msgid "_Small icons"
@@ -585,7 +586,7 @@ msgid ""
 msgstr ""
 "מצייר חץ קטן בגבול חלון העריכה וממשיך את השורה בשורה הבאה. הערה: לגלישת "
 "שורות עלות ביצועים גבוהה במסמכים גדולים, לכן יש להימנע משימוש באפשרות זו "
-"במחשבים איטיים."
+"במחשבים אטיים."
 
 #: ../data/geany.glade.h:125
 msgid "\"Smart\" home key"
@@ -600,7 +601,7 @@ msgid ""
 "its current position."
 msgstr ""
 "כאשר המקש \"Home\" נמצא במצב \"חכם\", שימוש בו יזיז את הסמן לתו הראשון בשורה "
-"שאינו תו לבן. אם הסמן כבר מוצב עליו, אזי הוא יוזז לתחילת השורה. "
+"שאינו תו לבן. אם הסמן כבר מוצב עליו, אזיי הוא יוזז לתחילת השורה. "
 
 #: ../data/geany.glade.h:127
 msgid "Disable Drag and Drop"
@@ -629,7 +630,7 @@ msgstr ""
 
 #: ../data/geany.glade.h:132
 msgid "Use indicators to show compile errors"
-msgstr "השתמש במחוונים להצגת שגיאות הידור"
+msgstr "שימוש במחוונים להצגת שגיאות הידור"
 
 #: ../data/geany.glade.h:133
 msgid ""
@@ -677,7 +678,7 @@ msgid ""
 "<i>Project->Apply Default Indentation</i>."
 msgstr ""
 "הערה: כדי להחיל הגדרות אלה על המסמכים הפתוחים כעת,\n"
-"בחר בתפריט <i>מיזם->החל הזחת ברירת מחדל</i>."
+"יש לבחור בתפריט <i>מיזם -> החלת הזחת ברירת מחדל</i>."
 
 #: ../data/geany.glade.h:142
 msgid "Width:"
@@ -708,7 +709,7 @@ msgstr "טאבים ורוו_חים"
 #: ../data/geany.glade.h:148
 msgid ""
 "Use spaces if the total indent is less than the tab width, otherwise use both"
-msgstr "השתמש ברווחים אם הכניסה קטנה מרוחב הטאב, אחרת השתמש בשניהם."
+msgstr "משתמש ברווחים אם הכניסה קטנה מרוחב הטאב, אחרת משתמש בשניהם."
 
 #: ../data/geany.glade.h:149
 msgid "_Spaces"
@@ -716,7 +717,7 @@ msgstr "רוו_חים"
 
 #: ../data/geany.glade.h:150
 msgid "Use spaces when inserting indentation"
-msgstr "הכנס רווחים במקום טאבים"
+msgstr "מכניס רווחים במקום טאבים"
 
 #: ../data/geany.glade.h:151
 msgid "_Tabs"
@@ -724,7 +725,7 @@ msgstr "_טאב"
 
 #: ../data/geany.glade.h:152
 msgid "Use one tab per indent"
-msgstr "השתמש בטאב אחד לכל כניסה"
+msgstr "משתמש בטאב אחד לכל כניסה"
 
 #: ../data/geany.glade.h:153
 msgid "Detect width from file"
@@ -734,7 +735,7 @@ msgstr "זיהוי רוחב טאב מהקובץ"
 msgid ""
 "Whether to detect the indentation width from file contents when a file is "
 "opened"
-msgstr "מנסה לזהות ולהגדיר את סוג הזחת הקובץ בעת פתיחתו, בהסתמך תָכְנו."
+msgstr "מנסה לזהות ולהגדיר את סוג הזחת הקובץ בעת פתיחתו, בהסתמך על תָכְנו."
 
 #: ../data/geany.glade.h:155
 msgid "Type:"
@@ -748,7 +749,7 @@ msgstr "הזחה באמצעות מקש טאב"
 msgid ""
 "Pressing tab/shift-tab indents/unindents instead of inserting a tab character"
 msgstr ""
-"מאפשר הזחה באמצעות לחיצה על Tab והפחתת הזחה באמצעות לחיצה על Shift+Tab."
+"מאפשר הזחה באמצעות לחיצה על Tab והפחתת רמת הזחה באמצעות לחיצה על Shift + Tab."
 
 #: ../data/geany.glade.h:158
 msgid "<b>Indentation</b>"
@@ -786,7 +787,7 @@ msgid ""
 "Continue automatically multi-line comments in languages like C, C++ and Java "
 "when a new line is entered inside such a comment"
 msgstr ""
-"המשך הערה מרובת שורות באופן אוטומטיבשפות ‎כמו C ו-Java, כאשר השורה החדשה "
+"המשך הערה מרובת שורות באופן אוטומטיבשפות ‎כמו C ו־Java, כאשר השורה החדשה "
 "מוזחת אוטומטית."
 
 #: ../data/geany.glade.h:166
@@ -825,7 +826,7 @@ msgstr "מספר התווים להקלדה להצגת השלמה אוטומטי�
 msgid ""
 "The amount of characters which are necessary to show the symbol "
 "autocompletion list"
-msgstr "מספר התווים המזערי הנחוצים בכדי להציג רשימת השלמה אוטומטית"
+msgstr "מספר התווים המזערי הנחוץ בכדי להציג רשימת השלמה אוטומטית"
 
 #: ../data/geany.glade.h:174
 msgid "Display height in rows for the autocompletion list"
@@ -846,7 +847,7 @@ msgid ""
 "with large files. A delay of 0 disables real-time updates."
 msgstr ""
 "עיכוב מזערי (באלפיות שנייה) בין שני עדכונים אוטומטיים של רשימת הסמלים. שים "
-"לב, עיקוב קצר מדי עשוי להשפיע על הביצועים, בhיחוד בקבצים גדולים. עיכוב 0 "
+"לב, עיכוב קצר מדי עשוי להשפיע על הביצועים, בייחוד בקבצים גדולים. עיכוב 0 "
 "משבית עדכונים בזמן אמת."
 
 #: ../data/geany.glade.h:178
@@ -907,7 +908,7 @@ msgstr "היפוך צבעים בהדגשת תחביר"
 
 #: ../data/geany.glade.h:192
 msgid "Invert all colors, by default using white text on a black background"
-msgstr "הופך את צבעי הדגשת התחביר כברירת מחדל באמצעות טקסט לבן על רקע שחור"
+msgstr "הופך את צבעי הדגשת התחביר בברירת מחדל באמצעות טקסט לבן על רקע שחור"
 
 #: ../data/geany.glade.h:193
 msgid "Show indentation guides"
@@ -915,7 +916,7 @@ msgstr "הצגת הזחה"
 
 #: ../data/geany.glade.h:194
 msgid "Shows small dotted lines to help you to use the right indentation"
-msgstr "מציג קווים אנכיים בכדי להראות כמה הזחות בכל שורה"
+msgstr "מציג קווים אנכיים בכדי להראות את רוחב ההזחה בכל שורה"
 
 #: ../data/geany.glade.h:195
 msgid "Show white space"
@@ -927,7 +928,7 @@ msgstr "מציג חִצים קטנים להצגת רווחים והזחות"
 
 #: ../data/geany.glade.h:197
 msgid "Show line endings"
-msgstr "הצגת תווי סוף-שורה"
+msgstr "הצגת תווי סוף־שורה"
 
 #: ../data/geany.glade.h:198
 msgid "Shows the line ending character"
@@ -1011,7 +1012,7 @@ msgstr "צבע הרקע של התווים לאחר מיקום שבירת השו�
 
 #: ../data/geany.glade.h:215
 msgid "Enabled"
-msgstr "לאפשר"
+msgstr "אפשור"
 
 #: ../data/geany.glade.h:216
 msgid "<b>Long line marker</b>"
@@ -1027,7 +1028,7 @@ msgstr "מבטל הצגת רווחים וירטואליים"
 
 #: ../data/geany.glade.h:219
 msgid "Only for rectangular selections"
-msgstr "רק בחירות מלבניות"
+msgstr "בחירות מלבניות בלבד"
 
 #: ../data/geany.glade.h:220
 msgid ""
@@ -1037,7 +1038,7 @@ msgstr "מציג רווחים וירטואליים מעבר לסוף שורה כ
 
 #: ../data/geany.glade.h:221
 msgid "Always"
-msgstr "אַפְשר תמיד"
+msgstr "לאַפְשר תמיד"
 
 #: ../data/geany.glade.h:222
 msgid "Always show virtual spaces beyond the end of lines"
@@ -1081,7 +1082,7 @@ msgstr "קובע את קידוד ברירת המחדל לקבצים שנוצרי
 
 #: ../data/geany.glade.h:232
 msgid "Use fixed encoding when opening non-Unicode files"
-msgstr "השתמש בקידוד קבוע לפתיחת קבצים שאינם בקידוד יוניקוד"
+msgstr "שימוש בקידוד קבוע לפתיחת קבצים שאינם בקידוד יוניקוד"
 
 #: ../data/geany.glade.h:233
 msgid ""
@@ -1178,7 +1179,7 @@ msgstr "דפדפן:"
 msgid ""
 "A terminal emulator command (%c is substituted with the Geany run script "
 "filename)"
-msgstr ""
+msgstr "פקודת הדמיית מסוף (‎%c מוחלף בשם תסריט הריצה של Geany)"
 
 #: ../data/geany.glade.h:255
 msgid "Path (and possibly additional arguments) to your favorite browser"
@@ -1203,8 +1204,8 @@ msgid ""
 "can appear anywhere in the given command and will be replaced before "
 "execution."
 msgstr ""
-"פעולה בהקשר לשורת הפקודה. כל מקום בו תופיע המחרוזת %s, היא תוחלף במילה "
-"שנבחרה כאן."
+"פעולה בהקשר לשורת הפקודה. כל מקום בו תופיע המחרוזת ‎%s, היא תוחלף במחרוזת "
+"שהוזנה כאן."
 
 #: ../data/geany.glade.h:261
 msgid "<b>Commands</b>"
@@ -1271,23 +1272,23 @@ msgid ""
 "Specify a format for the the {datetime} wildcard. You can use any conversion "
 "specifiers which can be used with the ANSI C strftime function."
 msgstr ""
-"ציין תבנית עבור תווים כלליים לציון תאריך ושעה. אתה יכול להשתמש בכל תווי "
-"ההמרה אשר ניתן להשתמש בפונקציית strftime לפי תקן ANSI C."
+"ציין תבנית עבור תווים כלליים לציון תאריך ושעה. ניתן להשתמש בכל תווי ההמרה "
+"אשר ניתן להשתמש בפונקציית strftime לפי תקן ANSI C."
 
 #: ../data/geany.glade.h:277
 msgid ""
 "Specify a format for the the {year} wildcard. You can use any conversion "
 "specifiers which can be used with the ANSI C strftime function."
 msgstr ""
-"ציין תבנית עבור תווים כלליים לציון שנה. אתה יכול להשתמש בכל תווי ההמרה אשר "
-"ניתן להשתמש בפונקציית strftime לפי תקן ANSI C."
+"ציין תבנית עבור תווים כלליים לציון שנה. ניתן להשתמש בכל תווי ההמרה אשר ניתן "
+"להשתמש בפונקציית strftime לפי תקן ANSI C."
 
 #: ../data/geany.glade.h:278
 msgid ""
 "Specify a format for the the {date} wildcard. You can use any conversion "
 "specifiers which can be used with the ANSI C strftime function."
 msgstr ""
-"ציין תבנית עבור תווים כלליים לציון תאריך. אתה יכול להשתמש בכל תווי ההמרה אשר "
+"ציין תבנית עבור תווים כלליים לציון תאריך. ניתן להשתמש בכל תווי ההמרה אשר "
 "ניתן להשתמש בפונקציית strftime לפי תקן ANSI C."
 
 #: ../data/geany.glade.h:279
@@ -1338,7 +1339,7 @@ msgstr "מספור הדפים המודפסים"
 #: ../data/geany.glade.h:291 ../src/printing.c:241
 msgid ""
 "Add page numbers at the bottom of each page. It takes 2 lines of the page."
-msgstr "הוספת מספרי עמודים בכל תחתית עמוד. זה לוקח שתי שורות בכל עמוד."
+msgstr "מספור העמודים בתחתית כל עמוד. זה לוקח שתי שורות בכל עמוד."
 
 #: ../data/geany.glade.h:292 ../src/printing.c:244
 msgid "Print page header"
@@ -1349,7 +1350,7 @@ msgid ""
 "Add a little header to every page containing the page number, the filename "
 "and the current date (see below). It takes 3 lines of the page."
 msgstr ""
-"הוספת כותרת קטנה בכל דף המכילה את מספר העמוד, את שם הקובץ ואת התאריך הנוכחי "
+"מוסיף כותרת קטנה בכל דף המכילה את מספר העמוד, את שם הקובץ ואת התאריך הנוכחי "
 "(ראה להלן). זה לוקח שלוש שורות בכל עמוד."
 
 #: ../data/geany.glade.h:294 ../src/printing.c:262
@@ -1358,7 +1359,7 @@ msgstr "הדפסת שם הקובץ הבסיסי בלבד"
 
 #: ../data/geany.glade.h:295
 msgid "Print only the basename (without the path) of the printed file"
-msgstr "הדפסת שם הקובץ בלבד, ללא הנתיב המלא"
+msgstr "מדפיס את שם הקובץ בלבד, ללא הנתיב המלא"
 
 #: ../data/geany.glade.h:296 ../src/printing.c:270
 msgid "Date format:"
@@ -1370,7 +1371,7 @@ msgid ""
 "header on each page. You can use any conversion specifiers which can be used "
 "with the ANSI C strftime function."
 msgstr ""
-"ציין תבנית עבור תווים כלליים לציון תאריך. אתה יכול להשתמש בכל תווי ההמרה אשר "
+"ציין תבנית עבור תווים כלליים לציון תאריך. ניתן להשתמש בכל תווי ההמרה אשר "
 "ניתן להשתמש בפונקציית strftime לפי תקן ANSI C."
 
 #: ../data/geany.glade.h:298
@@ -1484,16 +1485,16 @@ msgid ""
 "This option disables the keybinding to popup the menu bar (default is F10). "
 "Disabling it can be useful if you use, for example, Midnight Commander "
 "within the VTE."
-msgstr "אפשרות זו מבטלת את קיצור-המקש להצגת התפריט קופץ (F10 בברירת מחדל)"
+msgstr "אפשרות זו מבטלת את צירוף־המקש להצגת התפריט קופץ (F10 בברירת מחדל)"
 
 #: ../data/geany.glade.h:324
 msgid "Follow path of the current file"
-msgstr "עקוב אחר נתיב הקובץ הנוכחי"
+msgstr "מעקב אחר נתיב הקובץ הנוכחי"
 
 #: ../data/geany.glade.h:325
 msgid ""
 "Whether to execute \\\"cd $path\\\" when you switch between opened files"
-msgstr "האם לבצע \\\"‎cd $path\\\" ‏בעת מעבר בין קבצים שנפתחו"
+msgstr "האם לבצע \\\"‎cd $path\\\" ‏בעת מעבר בין קבצים פתוחים"
 
 #: ../data/geany.glade.h:326
 msgid "Execute programs in the VTE"
@@ -1515,7 +1516,7 @@ msgid ""
 "Run programs in VTE instead of opening a terminal emulation window. Please "
 "note, programs executed in VTE cannot be stopped"
 msgstr ""
-"מאפשר הפעלת תכניות ב-VTE במקום לפתוח חלון הדמיית מסוף. שים לב כי לא ניתן "
+"מאפשר הפעלת תכניות ב־VTE במקום לפתוח חלון הדמיית מסוף. שים לב כי לא ניתן "
 "לעצור תכניות אלו."
 
 #: ../data/geany.glade.h:330
@@ -1567,7 +1568,7 @@ msgstr "סוגי קבצים:"
 msgid ""
 "Space separated list of file patterns used for the find in files dialog (e."
 "g. *.c *.h)"
-msgstr "רשימת סוגי הקבצים המשמשים את דו-שיח מציאת הקבצים (לדוגמה: ‎*.c *.h)"
+msgstr "רשימת סוגי הקבצים המשמשים את דו־שיח מציאת הקבצים (לדוגמה: ‎*.c *.h)"
 
 #: ../data/geany.glade.h:342 ../src/project.c:172
 msgid ""
@@ -1592,7 +1593,7 @@ msgstr "התאמה אישית"
 
 #: ../data/geany.glade.h:346
 msgid "Use global settings"
-msgstr "השתמש בהגדרות הראשיות"
+msgstr "שימוש בהגדרות הראשיות"
 
 #: ../data/geany.glade.h:347
 msgid "Top"
@@ -1705,15 +1706,15 @@ msgstr "הכנסת/הסרת הע_רת שורה"
 
 #: ../data/geany.glade.h:375
 msgid "_Increase Indent"
-msgstr "_הזח פנימה"
+msgstr "_הזחה פנימה"
 
 #: ../data/geany.glade.h:376
 msgid "_Decrease Indent"
-msgstr "ה_זח החוצה"
+msgstr "ה_זחה החוצה"
 
 #: ../data/geany.glade.h:377 ../src/keybindings.c:392
 msgid "_Smart Line Indent"
-msgstr "הזח ש_ורות"
+msgstr "הזחת ש_ורות"
 
 #: ../data/geany.glade.h:378
 msgid "_Send Selection to"
@@ -1917,7 +1918,7 @@ msgstr "הגדרת _קידוד"
 
 #: ../data/geany.glade.h:428
 msgid "Set Line E_ndings"
-msgstr "הגדרת סוג תו סיו_ם-שורה"
+msgstr "הגדרת סוג תו סיו_ם־שורה"
 
 #: ../data/geany.glade.h:429
 msgid "Convert and Set to _CR/LF (Win)"
@@ -1989,7 +1990,7 @@ msgstr "החלת הזחת ברירת מחדל על כל המסמכים"
 
 #: ../data/geany.glade.h:446
 msgid "_Apply Default Indentation"
-msgstr "ה_חל הזחת ברירת מחדל"
+msgstr "ה_חלת הזחת ברירת מחדל"
 
 #. build the code
 #: ../data/geany.glade.h:447 ../src/build.c:2554 ../src/build.c:2831
@@ -2082,11 +2083,11 @@ msgid ""
 "Frank Lanitz\n"
 "All rights reserved."
 msgstr ""
-"זכויות יוצרים (c) ‏2005-2012\n"
+"זכויות יוצרים (c) ‏2005–2012\n"
 "Colomban Wendling\n"
 "Nick Treleaven\n"
 "Matthew Brush\n"
-"nEnrico Tröger\n"
+"Enrico Tröger\n"
 "Frank Lanitz\n"
 "כל הזכויות שמורות."
 
@@ -2140,7 +2141,7 @@ msgstr "תורמים"
 #, c-format
 msgid ""
 "Some of the many contributors (for a more detailed list, see the file %s):"
-msgstr "חלק מהתורמים רבות ל-Geany (עבור רשימה מפורטת יותר, עיין בקובץ %s):"
+msgstr "חלק מהתורמים רבות ל־Geany (עבור רשימה מפורטת יותר, עיין בקובץ %s):"
 
 #: ../src/about.c:399
 msgid "Credits"
@@ -2162,7 +2163,7 @@ msgstr ""
 #: ../src/build.c:748
 #, c-format
 msgid "failed to substitute %%p, no project active"
-msgstr ""
+msgstr "נכשלה החלפת המיזם %%p, אין מיזם פעיל"
 
 #: ../src/build.c:786
 msgid "Process failed, no working directory"
@@ -2181,12 +2182,12 @@ msgstr "התהליך נכשל (%s)"
 #: ../src/build.c:900
 #, c-format
 msgid "Failed to change the working directory to \"%s\""
-msgstr "נכשל ניסיון לשנות את תיקיית העבודה ל-\"%s\""
+msgstr "נכשל ניסיון לשנות את תיקיית העבודה ל־\"%s\""
 
 #: ../src/build.c:929
 #, c-format
 msgid "Failed to execute \"%s\" (start-script could not be created: %s)"
-msgstr "נכשל ניסיון ביצוע \"%s\" (התחלת-תסריט: לא היה ניתן לבצע: %s)"
+msgstr "נכשל ניסיון ביצוע \"%s\" (התחלת־תסריט: לא היה ניתן לבצע: %s)"
 
 #: ../src/build.c:984
 msgid ""
@@ -2194,12 +2195,12 @@ msgid ""
 msgstr "אין אפשרות להפעיל את הקובץ ממדמה המסוף, מכיוון שנראה שהוא מכיל פקודה."
 
 #: ../src/build.c:1010
-#, fuzzy, c-format
+#, c-format
 msgid ""
 "Could not parse terminal command \"%s\" (check Terminal tool setting in "
 "Preferences)"
 msgstr ""
-"לא ניתן למצוא את המסוף \"%s\" (בדוק את הנתיב שהוגדר בההגדרות->כלים->מסוף)"
+"לא ניתן למצוא את המסוף \"%s\" (בדוק הנתיב שהוגדר ב'העדפות -> כלים -> מסוף')"
 
 #: ../src/build.c:1027
 #, c-format
@@ -2207,7 +2208,7 @@ msgid ""
 "Could not find terminal \"%s\" (check path for Terminal tool setting in "
 "Preferences)"
 msgstr ""
-"לא ניתן למצוא את המסוף \"%s\" (בדוק את הנתיב שהוגדר בההגדרות->כלים->מסוף)"
+"לא ניתן למצוא את המסוף \"%s\" (בדוק הנתיב שהוגדר ב'העדפות -> כלים -> מסוף')"
 
 #: ../src/build.c:1181
 msgid "Compilation failed."
@@ -2265,7 +2266,7 @@ msgstr "אין עוד שגיאות בנייה."
 
 #: ../src/build.c:1926 ../src/build.c:1928
 msgid "Set menu item label"
-msgstr "קבע תווית לפריט בתפריט"
+msgstr "הזנת תווית לפריט בתפריט"
 
 #: ../src/build.c:1953 ../src/symbols.c:735 ../src/tools.c:554
 msgid "Label"
@@ -2307,7 +2308,7 @@ msgstr "פקודות עצמאיות"
 
 #: ../src/build.c:2156
 msgid "Note: Item 2 opens a dialog and appends the response to the command."
-msgstr ""
+msgstr "הערה: שני פריטים מלאים יצורפו לתפריט הפקודות"
 
 #: ../src/build.c:2165
 msgid "Execute commands"
@@ -2319,7 +2320,7 @@ msgid ""
 "%d, %e, %f, %p are substituted in command and directory fields, see manual "
 "for details."
 msgstr ""
-"‫‎%d, %e, %f ו-‎%p בפקודות מתחלפים בקבצים ותיקייות. עיין במדריך לקבלת פרטים."
+"‫‎%d, %e, %f ו־‎%p בפקודות מתחלפים בקבצים ותיקיות. עיין במדריך לקבלת פרטים."
 
 #: ../src/build.c:2335
 msgid "Set Build Commands"
@@ -2383,7 +2384,7 @@ msgstr "הזן את מספר השורה שברצונך לעבור אליה:"
 #: ../src/callbacks.c:1167 ../src/callbacks.c:1192
 msgid ""
 "Please set the filetype for the current file before using this function."
-msgstr "בבקשה, הגדר את סוג הקובץ הנוכחי לפני שימוש באפשרות זו."
+msgstr "אנא הגדר את סוג הקובץ הנוכחי לפני שימוש באפשרות זו."
 
 #: ../src/callbacks.c:1297 ../src/ui_utils.c:642
 msgid "dd.mm.yyyy"
@@ -2411,7 +2412,7 @@ msgstr "yyyy/mm/dd hh:mm:ss"
 
 #: ../src/callbacks.c:1309 ../src/ui_utils.c:664
 msgid "_Use Custom Date Format"
-msgstr "השתמש בתבנית _תאריך מותאמת אישית"
+msgstr "שימוש בתבנית _תאריך מותאמת אישית"
 
 #: ../src/callbacks.c:1313
 msgid "Custom Date Format"
@@ -2422,8 +2423,8 @@ msgid ""
 "Enter here a custom date and time format. You can use any conversion "
 "specifiers which can be used with the ANSI C strftime function."
 msgstr ""
-"ציין תבנית עבור תווים כלליים לציון תאריך ושעה. אתה יכול להשתמש בכל תווי "
-"ההמרה אשר ניתן להשתמש בפונקציית strftime לפי תקן ANSI C."
+"ציין תבנית עבור תווים כלליים לציון תאריך ושעה. ניתן להשתמש בכל תווי ההמרה "
+"אשר ניתן להשתמש בפונקציית strftime לפי תקן ANSI C."
 
 #: ../src/callbacks.c:1337
 msgid "Date format string could not be converted (possibly too long)."
@@ -2436,7 +2437,7 @@ msgstr "אין פריטים נוספים"
 #: ../src/callbacks.c:1676
 #, c-format
 msgid "Could not open file %s (File not found)"
-msgstr "לא ניתן לפתוח את הקובץ %s"
+msgstr "לא ניתן לפתוח את הקובץ %s (הקובץ לא נמצא)"
 
 #: ../src/dialogs.c:219
 msgid "Detect from file"
@@ -2496,7 +2497,7 @@ msgstr ""
 #. line 2 with filetype combo
 #: ../src/dialogs.c:315
 msgid "Set filetype:"
-msgstr "הגדרת סוג-קובץ:"
+msgstr "הגדרת סוג־קובץ:"
 
 #: ../src/dialogs.c:325
 msgid ""
@@ -2682,7 +2683,7 @@ msgstr "הקובץ החדש \"%s\" נפתח."
 #: ../src/document.c:795 ../src/document.c:1319
 #, c-format
 msgid "Could not open file %s (%s)"
-msgstr "לא ניתן לפתוח את הקובץ %s (%s)"
+msgstr "לא ניתן לפתוח את הקובץ %s ‫(%s)"
 
 #: ../src/document.c:815
 #, c-format
@@ -2726,7 +2727,7 @@ msgstr "טאבים ורווחים"
 #: ../src/document.c:1044
 #, c-format
 msgid "Setting %s indentation mode for %s."
-msgstr "הגדרת סוג ההזחה כ%s עבור הקובץ %s."
+msgstr "הגדרת סוג ההזחה כ־%s עבור הקובץ %s."
 
 #: ../src/document.c:1055
 #, c-format
@@ -2759,7 +2760,7 @@ msgstr "ארעה שגיאה בשינוי שם הקובץ."
 msgid ""
 "An error occurred while converting the file from UTF-8 in \"%s\". The file "
 "remains unsaved."
-msgstr "אירעה שגיאה בעת המרת הקובץ מ-UTF-8 ל-\"%s\". הקובץ לא נשמר."
+msgstr "אירעה שגיאה בעת המרת הקובץ מקידוד UTF-8 לקידוד \"%s\". הקובץ לא נשמר."
 
 #: ../src/document.c:1522
 #, c-format
@@ -2778,17 +2779,17 @@ msgstr "הודעת שגיאה: %s."
 #: ../src/document.c:1587
 #, c-format
 msgid "Failed to open file '%s' for writing: fopen() failed: %s"
-msgstr "נכשלה פתיחת הקובץ '%s' לכתיבה:  fopen() נכשל: %s"
+msgstr "נכשלה פתיחת הקובץ '%s' לכתיבה: fopen() נכשל: %s"
 
 #: ../src/document.c:1605
 #, c-format
 msgid "Failed to write file '%s': fwrite() failed: %s"
-msgstr "נכשל ניסיון לכתוב לקובץ '%s': fwrite() נכשל: %s"
+msgstr "נכשל ניסיון לכתוב לקובץ '%s': ‫fwrite() נכשל: %s"
 
 #: ../src/document.c:1619
 #, c-format
 msgid "Failed to close file '%s': fclose() failed: %s"
-msgstr "נכשל ניסיון סגירת הקובץ '%s': fclose() נכשל: %s"
+msgstr "נכשל ניסיון סגירת הקובץ '%s': ‫fclose() נכשל: %s"
 
 #: ../src/document.c:1768
 #, c-format
@@ -2872,7 +2873,7 @@ msgstr "הזן את מספר הרווחים שיחליפו כל טאב."
 #: ../src/editor.c:4511
 #, c-format
 msgid "Warning: non-standard hard tab width: %d != 8!"
-msgstr "לא תקני רוחב טאב: ‎%d != 8"
+msgstr "רוחב טאב לא תקני: ‎%d != 8"
 
 #: ../src/encodings.c:67
 msgid "Celtic"
@@ -3015,7 +3016,7 @@ msgstr "%s קובץ"
 
 #: ../src/filetypes.c:311
 msgid "Shell script"
-msgstr "Shell script"
+msgstr "תסריט מעטפת"
 
 #: ../src/filetypes.c:319
 msgid "Makefile"
@@ -3027,7 +3028,7 @@ msgstr "מסמך XML"
 
 #: ../src/filetypes.c:350
 msgid "Cascading StyleSheet"
-msgstr "גיליונות סגנון מדורגים (CSS)"
+msgstr "גליונות סגנון מדורגים (CSS)"
 
 #: ../src/filetypes.c:419
 msgid "Config file"
@@ -3066,7 +3067,7 @@ msgstr "כל הקבצים"
 #: ../src/filetypes.c:1548
 #, c-format
 msgid "Bad regex for filetype %s: %s"
-msgstr "ביטוי רגולרי לא תקין בסוג הקובץ %s: %s"
+msgstr "ביטוי רגולרי לא תקין בסוג הקובץ %s: ‫%s"
 
 #: ../src/geany.h:55
 msgid "untitled"
@@ -3198,7 +3199,7 @@ msgstr "פתיחת מחודשת של הכרטיסייה האחרונה שנסג�
 
 #: ../src/keybindings.c:276
 msgid "Quit"
-msgstr ""
+msgstr "יציאה"
 
 #: ../src/keybindings.c:293
 msgid "Undo"
@@ -3230,7 +3231,7 @@ msgstr "גלילה לשורה התחתונה"
 
 #: ../src/keybindings.c:315
 msgid "Complete snippet"
-msgstr "מקטע שלם"
+msgstr "השלמת מקטע"
 
 #: ../src/keybindings.c:317
 msgid "Move cursor in snippet"
@@ -3250,7 +3251,7 @@ msgstr "השלמת מילה"
 
 #: ../src/keybindings.c:325
 msgid "Show calltip"
-msgstr ""
+msgstr "הצגת השלמה אוטומטית"
 
 #: ../src/keybindings.c:327
 msgid "Show macro list"
@@ -3438,7 +3439,7 @@ msgstr "מעבר להמשך המילה"
 
 #: ../src/keybindings.c:502
 msgid "Toggle All Additional Widgets"
-msgstr "הצגה או הסתרת היישומונים"
+msgstr "הצגת או הסתרת היישומונים"
 
 #: ../src/keybindings.c:505
 msgid "Fullscreen"
@@ -3450,7 +3451,7 @@ msgstr "הצגת או הסתרת חלון ההודעות"
 
 #: ../src/keybindings.c:510
 msgid "Toggle Sidebar"
-msgstr "הצגה או הסתרת הסרגל הצידי"
+msgstr "הצגת או הסתרת הסרגל הצדי"
 
 #: ../src/keybindings.c:512
 msgid "Zoom In"
@@ -3526,19 +3527,19 @@ msgstr "הזזת המסמך ימינה"
 
 #: ../src/keybindings.c:556
 msgid "Move document first"
-msgstr "הזזת המסמך להתחלה"
+msgstr "הזזת המסמך לפני שאר המסמכים"
 
 #: ../src/keybindings.c:558
 msgid "Move document last"
-msgstr "הזזת המסמך לסוף"
+msgstr "הזזת המסמך לאחרי שאר המסמכים"
 
 #: ../src/keybindings.c:563
 msgid "Toggle Line wrapping"
-msgstr "ביטול/הפעלת גלישת שורות"
+msgstr "ביטול/אפשור גלישת שורות"
 
 #: ../src/keybindings.c:565
 msgid "Toggle Line breaking"
-msgstr "ביטול/הפעלת שבירת שורות"
+msgstr "ביטול/אפשור שבירת שורות"
 
 #: ../src/keybindings.c:571
 msgid "Replace spaces by tabs"
@@ -3636,19 +3637,19 @@ msgstr "ני_קוי"
 msgid ""
 "Set initial column number for the first opened file (useful in conjunction "
 "with --line)"
-msgstr "הגדרת העמודה בה יוצב הסמן לראשונה ‫(יחד עם הדגל ‎--line)"
+msgstr "הגדרת העמודה בה יוצב הסמן לראשונה, יחד עם הדגל --line"
 
 #: ../src/main.c:122
 msgid "Use an alternate configuration directory"
-msgstr "השתמש בתיקיית תצורה חלופית"
+msgstr "שימוש בתיקיית תצורה חלופית"
 
 #: ../src/main.c:123
 msgid "Print internal filetype names"
-msgstr "הדפס את כל סוגי הקבצים הנתמכים על ידי ‫Geany"
+msgstr "הדפסת כל סוגי הקבצים הנתמכים על ידי ‫Geany"
 
 #: ../src/main.c:124
 msgid "Generate global tags file (see documentation)"
-msgstr "צור קובץ תגיות ראשי ‫(עיין בתיעוד)"
+msgstr "יצירת קובץ תגיות ראשי ‫(עָיֵּן בתיעוד)"
 
 #: ../src/main.c:125
 msgid "Don't preprocess C/C++ files when generating tags"
@@ -3656,12 +3657,12 @@ msgstr "הכללת הגדרות אשר לא מהודרות לאחר סינון �
 
 #: ../src/main.c:127
 msgid "Don't open files in a running instance, force opening a new instance"
-msgstr "במקרה שכבר רץ ברקע ‫Geany, אפשרות זו תכפה פתיחת הקובץ בחלון חדש."
+msgstr "במקרה ש-Geany כבר רץ ברקע, אפשרות זו תכפה פתיחת הקובץ בחלון חדש."
 
 #: ../src/main.c:128
 msgid ""
 "Use this socket filename for communication with a running Geany instance"
-msgstr ""
+msgstr "שימוש בקובץ שקע לתקשורת עם מופע פועל של Geany"
 
 #: ../src/main.c:129
 msgid "Return a list of open documents in a running Geany instance"
@@ -3677,7 +3678,7 @@ msgstr "אל תציג את חלון ההודעות בעת ההפעלה"
 
 #: ../src/main.c:133
 msgid "Don't load auto completion data (see documentation)"
-msgstr "אל תטען נתוני השלמה אוטומטית ‫(ראה תיעוד)"
+msgstr "אל תטען נתוני השלמה אוטומטית ‫(עָיֵּן בתיעוד)"
 
 #: ../src/main.c:135
 msgid "Don't load plugins"
@@ -3689,7 +3690,7 @@ msgstr "הדפס את קידומת ההתקנה של ‫Geany"
 
 #: ../src/main.c:138
 msgid "Open all FILES in read-only mode (see documention)"
-msgstr "פתח את כל הקבצים לקריאה בלבד ‫(ראה תיעוד)"
+msgstr "פתח את כל הקבצים לקריאה בלבד ‫(עָיֵּן בתיעוד)"
 
 #: ../src/main.c:139
 msgid "Don't load the previous session's files"
@@ -3701,7 +3702,7 @@ msgstr "אל תטען תמיכה במדמה מסוף"
 
 #: ../src/main.c:142
 msgid "Filename of libvte.so"
-msgstr "שם הקובץ ל‫-libvte.so"
+msgstr "שם הקובץ ל‫־libvte.so"
 
 #: ../src/main.c:144
 msgid "Be verbose"
@@ -3734,7 +3735,7 @@ msgstr "‏Geany לעבור בתיקיית התצורה לפני כן."
 msgid ""
 "Your configuration directory has been successfully moved from \"%s\" to \"%s"
 "\"."
-msgstr "תיקיית התצורה שלך הועברה בהצלחה מ-\"%s\" ל-\"%s\""
+msgstr "תיקיית התצורה שלך הועברה בהצלחה מ־\"%s\" ל־\"%s\""
 
 #. for translators: the third %s in brackets is the error message which
 #. * describes why moving the dir didn't work
@@ -3743,7 +3744,7 @@ msgstr "תיקיית התצורה שלך הועברה בהצלחה מ-\"%s\" ל-
 msgid ""
 "Your old configuration directory \"%s\" could not be moved to \"%s\" (%s). "
 "Please move manually the directory to the new location."
-msgstr "לא ניתן להעביר את תיקיית התצורה הישנה שלך מ-\"%s\" ל-\"%s\" ‏(%s)"
+msgstr "לא ניתן להעביר את תיקיית התצורה הישנה שלך מ־\"%s\" ל־\"%s\" ‏(%s)"
 
 #: ../src/main.c:749
 #, c-format
@@ -3759,7 +3760,7 @@ msgstr ""
 #: ../src/main.c:1080
 #, c-format
 msgid "This is Geany %s."
-msgstr "‏Geany %s."
+msgstr "Geany ‫(%s)."
 
 #: ../src/main.c:1082
 #, c-format
@@ -3789,7 +3790,7 @@ msgstr "ה_סתרת חלון ההודעות"
 #: ../src/msgwindow.c:651
 #, c-format
 msgid "Could not find file '%s' - trying the current document path."
-msgstr "לא ניתן למצוא את הקובץ '%s' - ניסה את נתיב הקובץ הנוכחי."
+msgstr "לא ניתן למצוא את הקובץ '%s' - נוסה נתיב הקובץ הנוכחי."
 
 #: ../src/notebook.c:195
 msgid "Switch to Document"
@@ -3854,7 +3855,7 @@ msgstr "תצורת תוספים"
 
 #: ../src/prefs.c:179
 msgid "Grab Key"
-msgstr "בחירת צירוף-מקשים"
+msgstr "בחירת צירוף־מקשים"
 
 #: ../src/prefs.c:185
 #, c-format
@@ -3875,7 +3876,7 @@ msgstr "פעולה"
 
 #: ../src/prefs.c:296
 msgid "Shortcut"
-msgstr "קיצור מקש"
+msgstr "צירוף מקשים"
 
 #: ../src/prefs.c:1466
 msgid "_Allow"
@@ -3887,12 +3888,12 @@ msgstr "ד_רוס"
 
 #: ../src/prefs.c:1469
 msgid "Override that keybinding?"
-msgstr "האם לדרוס קיצור דרך זה ?"
+msgstr "האם לדרוס צירוף דרך זה ?"
 
 #: ../src/prefs.c:1470
 #, c-format
 msgid "The combination '%s' is already used for \"%s\"."
-msgstr "צירוף המקשים \"%s\" כבר קיים עבור \"%s\"."
+msgstr "צירוף המקשים '‎%s'‫ כבר קיים עבור \"%s\"."
 
 #. add manually GeanyWrapLabels because they can't be added with Glade
 #. page Tools
@@ -3905,7 +3906,7 @@ msgstr "הזן נתיבי הכלים שלהלן. נתיבי כלים שאינך 
 msgid ""
 "Set the information to be used in templates. See the documentation for "
 "details."
-msgstr "הגדרת את המידע לשימוש בתבניות. עיין בתיעוד לפרטים."
+msgstr "הגדר המידע לשימוש בתבניות. עָיֵּן בתיעוד לפרטים."
 
 #. page Keybindings
 #: ../src/prefs.c:1677
@@ -3914,9 +3915,9 @@ msgid ""
 "press the Change button to enter a new shortcut, or double click on an "
 "action to edit the string representation of the shortcut directly."
 msgstr ""
-"כאן אתה יכול לשנות את קיצורי המקשים עבור פעולות שונות. לחץ על פעולה מסוימת "
-"ולאחר מכן לחץ על הכפתור \"שנה\", או לחיצה כפולה על הפעולה, והזן את המחרוזת "
-"המייצגת את קיצור המקש שברצונך לבחור."
+"כאן ניתן לשנות צירופי המקשים עבור פעולות שונות. לחץ על פעולה מסוימת ולאחר "
+"מכן לחץ על הכפתור \"שנה\", או לחץ לחיצה כפולה על הפעולה, והזן המחרוזת "
+"המייצגת את צירוף המקש שברצונך לבחור."
 
 #. page Editor->Indentation
 #: ../src/prefs.c:1682
@@ -3924,8 +3925,8 @@ msgid ""
 "<i>Warning: these settings are overridden by the current project. See "
 "<b>Project->Properties</b>.</i>"
 msgstr ""
-"<i>אזהרה: הגדרות אלו עלולות להיעקף על ידי המיזם הנוכחי. ראה <b>מיזם-"
-">מאפיינים</b></i>"
+"<i>אזהרה: הגדרות אלו עלולות להיעקף על ידי המיזם הנוכחי. ראה <b>מיזם -> "
+"מאפיינים</b></i>"
 
 #: ../src/printing.c:159
 #, c-format
@@ -4098,7 +4099,7 @@ msgid ""
 "Use POSIX-like regular expressions. For detailed information about using "
 "regular expressions, please read the documentation."
 msgstr ""
-"השתמש בתקן POSIX לביטויים רגולריים. ראה בתיעוד למידע מפורט לשימוש בביטויים "
+"משתמש בתקן POSIX לביטויים רגולריים. עָיֵּן בתיעוד למידע מפורט לשימוש בביטויים "
 "רגולריים."
 
 #: ../src/search.c:300
@@ -4107,7 +4108,7 @@ msgstr "חיפוש _לאחור"
 
 #: ../src/search.c:313
 msgid "Use _escape sequences"
-msgstr "החלף _תווי בקרה"
+msgstr "החלפת _תווי בקרה"
 
 #: ../src/search.c:317
 msgid ""
@@ -4150,7 +4151,7 @@ msgstr "הד_גשה"
 
 #: ../src/search.c:493
 msgid "Mark all matches in the current document"
-msgstr "הדגש את כל ההתאמות במסמך הנוכחי"
+msgstr "מדגיש כל ההתאמות במסמך הנוכחי"
 
 #: ../src/search.c:498 ../src/search.c:671
 msgid "In Sessi_on"
@@ -4158,16 +4159,16 @@ msgstr "בכל _המסמכים"
 
 #: ../src/search.c:503 ../src/search.c:676
 msgid "_In Document"
-msgstr "במ_סמך"
+msgstr "במ_סמך הנוכחי"
 
 #. close window checkbox
 #: ../src/search.c:509 ../src/search.c:689
 msgid "Close _dialog"
-msgstr "סגיר_ת דו-שיח"
+msgstr "סגיר_ת דו־שיח"
 
 #: ../src/search.c:513 ../src/search.c:693
 msgid "Disable this option to keep the dialog open"
-msgstr "בטל אפשרות זו בכדי להשאיר חלון דו-שיח זה פתוח"
+msgstr "בטל אפשרות זו בכדי להשאיר חלון דו־שיח זה פתוח"
 
 #: ../src/search.c:608
 msgid "Replace & Fi_nd"
@@ -4234,7 +4235,7 @@ msgstr "ראה תיעוד grep לפרטים נוספים"
 
 #: ../src/search.c:947
 msgid "_Recurse in subfolders"
-msgstr "חיפ_וש רקורסיבי בספריות המשנה"
+msgstr "חיפ_וש רקורסיבי בתיקיות המשנה"
 
 #: ../src/search.c:960
 msgid "_Invert search results"
@@ -4250,19 +4251,19 @@ msgstr "אפשרו_יות נוספות:"
 
 #: ../src/search.c:988
 msgid "Other options to pass to Grep"
-msgstr "אפשרויות נוספות שיועברו ל-grep"
+msgstr "אפשרויות נוספות שיועברו ל־grep"
 
 #: ../src/search.c:1273 ../src/search.c:2091 ../src/search.c:2094
 #, c-format
 msgid "Found %d match for \"%s\"."
 msgid_plural "Found %d matches for \"%s\"."
-msgstr[0] "נמצאו %d התאמות ל-\"%s\"."
-msgstr[1] "נמצאו %d התאמות ל-%s"
+msgstr[0] "נמצאו %d התאמות ל־\"%s\"."
+msgstr[1] "נמצאו %d התאמות ל־%s"
 
 #: ../src/search.c:1320
 #, c-format
 msgid "Replaced %u matches in %u documents."
-msgstr "הוחלפו %u התאמות ב-%u מסמכים."
+msgstr "הוחלפו %u התאמות ב־%u מסמכים."
 
 #: ../src/search.c:1511
 msgid "Invalid directory for find in files."
@@ -4323,6 +4324,9 @@ msgid ""
 "another user.\n"
 "This is a fatal error and Geany will now quit."
 msgstr ""
+"Geany ניסה לגשת לשקע דומיין יוניקס, אך מופע אחר של Geany פועל תחת משתמש "
+"אחר.\n"
+"זו שגיאה חמורה, וכעת Geany יוצא."
 
 #: ../src/stash.c:1098
 msgid "Name"
@@ -4421,11 +4425,11 @@ msgstr "סביבה"
 
 #: ../src/symbols.c:733 ../src/symbols.c:814
 msgid "Subsection"
-msgstr "תת-סעיף"
+msgstr "תת־סעיף"
 
 #: ../src/symbols.c:734 ../src/symbols.c:815
 msgid "Subsubsection"
-msgstr "תת-תת סעיף"
+msgstr "תת־תת סעיף"
 
 #: ../src/symbols.c:745
 msgid "Structures"
@@ -4433,15 +4437,15 @@ msgstr "מבנים"
 
 #: ../src/symbols.c:752
 msgid "Parts"
-msgstr ""
+msgstr "חלקים"
 
 #: ../src/symbols.c:753
 msgid "Assembly"
-msgstr ""
+msgstr "אסמבלי"
 
 #: ../src/symbols.c:754
 msgid "Steps"
-msgstr ""
+msgstr "צעדים"
 
 #: ../src/symbols.c:769 ../src/symbols.c:864 ../src/symbols.c:889
 #: ../src/symbols.c:901
@@ -4679,7 +4683,7 @@ msgstr "מיין ל_פי סדר הופעה"
 #: ../src/templates.c:75
 #, c-format
 msgid "Failed to convert template file \"%s\" to UTF-8"
-msgstr "נכשלה המרת התבנית \"%s\" ל-UTF-8"
+msgstr "נכשלה המרת התבנית \"%s\" ל־UTF-8"
 
 #. custom actions defined in toolbar_init(): "New", "Open", "SearchEntry", "GotoEntry", "Build"
 #: ../src/toolbar.c:54
@@ -4737,7 +4741,7 @@ msgstr "הפעלה או הצגת הקובץ הנוכחי"
 #: ../src/toolbar.c:70
 msgid ""
 "Open a color chooser dialog, to interactively pick colors from a palette"
-msgstr "פתיחת בוחר-צבע, לבחירת צבעים באופן אינטראקטיבי מהלוח"
+msgstr "פתיחת בוחר־צבע, לבחירת צבעים באופן אינטראקטיבי מהלוח"
 
 #: ../src/toolbar.c:71
 msgid "Zoom in the text"
@@ -4765,11 +4769,11 @@ msgstr "מעבר למספר השורה שהוזן"
 
 #: ../src/toolbar.c:77
 msgid "Show the preferences dialog"
-msgstr "הצגת דו-שיח העדפות"
+msgstr "הצגת דו־שיח העדפות"
 
 #: ../src/toolbar.c:78
 msgid "Quit Geany"
-msgstr "יציאה מ-Geany"
+msgstr "יציאה מ־Geany"
 
 #: ../src/toolbar.c:79
 msgid "Print document"
@@ -4820,7 +4824,7 @@ msgid ""
 "Select items to be displayed on the toolbar. Items can be reordered by drag "
 "and drop."
 msgstr ""
-"בחירת התפריטים המוצגים בסרגל הכלים. ניתן לבחור פריטים חדשים על ידי גרירה "
+"בחירת הפריטים המוצגים בסרגל הכלים. ניתן לבחור פריטים חדשים על ידי גרירה "
 "ושחרור."
 
 #: ../src/toolbar.c:965
@@ -5009,7 +5013,7 @@ msgstr "ISO C99"
 
 #: ../src/ui_utils.c:613
 msgid "C++ (C Standard Library)"
-msgstr "C++ ‫(התיקייה התקנית C)"
+msgstr "C++ ‫(הספרייה התקנית C)"
 
 #: ../src/ui_utils.c:614
 msgid "C++ Standard Library"
@@ -5068,7 +5072,7 @@ msgstr "Unix (LF)"
 #: ../src/vte.c:432
 #, c-format
 msgid "invalid VTE library \"%s\": missing symbol \"%s\""
-msgstr ""
+msgstr "טעינת ספריית VTE %s: סמל %s חסר"
 
 #: ../src/vte.c:581
 msgid "_Set Path From Document"
@@ -5086,7 +5090,7 @@ msgstr "שיטו_ת קלט"
 msgid ""
 "Could not change the directory in the VTE because it probably contains a "
 "command."
-msgstr "לא ניתן לשנות את תיקיית VTE. כנראה היא מחילה פקודה."
+msgstr "לא ניתן לשנות את תיקיית VTE. כנראה היא מכילה פקודה."
 
 #: ../src/win32.c:160
 msgid "Geany project files"
@@ -5443,7 +5447,7 @@ msgid ""
 "%d will be replaced with the path name of the selected file without the "
 "filename"
 msgstr ""
-"הפקודה לביצוע \"פתיחה חיצונית\". ניתן להשתמש ב-‎%f וב-‎%d.\n"
+"הפקודה לביצוע \"פתיחה חיצונית\". ניתן להשתמש ב־‎%f וב־‎%d.\n"
 "‫‎%f יוחלף בשם הקובץ, כולל הנתיב המלא.\n"
 "‫‎%d יוחלף בנתיב הקובץ, ללא שם הקובץ עצמו."
 
@@ -5559,7 +5563,7 @@ msgstr "תבנית תאריך/זמן ל_שמירת קָבְצי גיבוי (\"ma
 
 #: ../plugins/saveactions.c:696
 msgid "Directory _levels to include in the backup destination:"
-msgstr ""
+msgstr "ר_מות התיקייה להכללה בתיקיית הגיבוי:"
 
 #: ../plugins/splitwindow.c:33
 msgid "Split Window"
